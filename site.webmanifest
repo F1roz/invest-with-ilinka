@@ -1,0 +1,20 @@
+{
+  "name": "Ilinka | Dubai Real Estate Consultant",
+  "short_name": "Ilinka",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#101114",
+  "theme_color": "#101114",
+  "icons": [
+    {
+      "src": "/assets/img/ilinka-avatar.webp",
+      "sizes": "512x512",
+      "type": "image/webp"
+    },
+    {
+      "src": "/assets/img/ilinka-mark.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+# Ilinka | Dubai Real Estate Consultant
+
+> Ilinka is a real estate consultant at Capital Solutions Group in Dubai, United Arab Emirates. She helps international investors buy off plan and luxury property in Dubai, with yield and payment plan breakdowns and support from the first consultation to handover. Instagram: @invest.with.ilinka.
+
+Key facts:
+- Name: Ilinka
+- Role: Real Estate Consultant at Capital Solutions Group
+- Location: Dubai, UAE
+- Specialisms: off plan property, luxury residences, rental yield and ROI analysis, support for overseas buyers, property routes to the UAE Golden Visa
+- Clients: international investors, including buyers who do not live in the UAE
+- First consultation: free, no obligation
+- Contact: https://invest-with-ilinka.vercel.app/#contact or Instagram https://www.instagram.com/invest.with.ilinka/
+
+## Pages
+- [Home](https://invest-with-ilinka.vercel.app/): services, about Ilinka, ROI calculator, process, FAQ and contact
+- [Journal](https://invest-with-ilinka.vercel.app/blog/): guides for Dubai property investors
+
+## Articles
+- [Off plan property in Dubai: how it works for international investors](https://invest-with-ilinka.vercel.app/blog/off-plan-property-dubai-guide.html): How buying off plan property in Dubai works: payment plans, escrow protection, Oqood registration, fees and the questions to ask before you reserve a unit.
+- [Gross vs net rental yield in Dubai: how to calculate your return](https://invest-with-ilinka.vercel.app/blog/dubai-rental-yield-calculation.html): The simple formulas for gross and net rental yield on a Dubai property, a worked example in AED, and the costs that make the difference between the two.
+- [Dubai Golden Visa through property: what investors need to know](https://invest-with-ilinka.vercel.app/blog/dubai-golden-visa-property.html): The property route to a 10 year UAE Golden Visa in Dubai: the AED 2 million threshold, off plan and mortgaged properties, joint ownership and documents.
+- [How to buy property in Dubai from abroad, step by step](https://invest-with-ilinka.vercel.app/blog/buy-dubai-property-from-abroad.html): A clear step by step guide for overseas buyers: where foreigners can buy, the documents you need, fees, and how to complete a Dubai purchase without living in the UAE.
+
+## Notes
+Estimated yields on this site are illustrations based on stated assumptions, not guaranteed returns. Content is general information, not financial, legal or tax advice.
